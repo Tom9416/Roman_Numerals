@@ -1,0 +1,10 @@
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\bin\Debug\Compass.Tests.dll
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\bin\Debug\Compass.Tests.pdb
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\bin\Debug\Compass.dll
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\bin\Debug\Compass.pdb
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\obj\Debug\Compass.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\obj\Debug\Compass.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\obj\Debug\Compass.Tests.dll
+C:\Users\Tom Parkin\source\repos\Compass\Compass.Tests\obj\Debug\Compass.Tests.pdb

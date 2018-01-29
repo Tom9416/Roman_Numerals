@@ -1,0 +1,12 @@
+C:\Users\Tom Parkin\source\repos\Pairing\Compass\bin\Debug\Compass.dll
+C:\Users\Tom Parkin\source\repos\Pairing\Compass\bin\Debug\Compass.pdb
+C:\Users\Tom Parkin\source\repos\Pairing\Compass\obj\Debug\Pairing_Project.csprojResolveAssemblyReference.cache
+C:\Users\Tom Parkin\source\repos\Pairing\Compass\obj\Debug\Pairing_Project.csproj.CoreCompileInputs.cache
+C:\Users\Tom Parkin\source\repos\Pairing\Compass\obj\Debug\Compass.dll
+C:\Users\Tom Parkin\source\repos\Pairing\Compass\obj\Debug\Compass.pdb
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing_Test\obj\Debug\Pairing_Project.csprojResolveAssemblyReference.cache
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing_Test\obj\Debug\Pairing_Project.csproj.CoreCompileInputs.cache
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing_Test\bin\Debug\Pairing_Project.dll
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing_Test\bin\Debug\Pairing_Project.pdb
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing_Test\obj\Debug\Pairing_Project.dll
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing_Test\obj\Debug\Pairing_Project.pdb

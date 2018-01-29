@@ -1,0 +1,10 @@
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\bin\Debug\Pairing_Project.Tests.dll
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\bin\Debug\Pairing_Project.Tests.pdb
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\obj\Debug\Pairing_Project.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\obj\Debug\Pairing_Project.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\obj\Debug\Pairing_Project.Tests.dll
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\obj\Debug\Pairing_Project.Tests.pdb
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\bin\Debug\Pairing_Project.dll
+C:\Users\Tom Parkin\source\repos\Pairing\Pairing.Tests\bin\Debug\Pairing_Project.pdb
